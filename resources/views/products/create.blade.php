@@ -59,4 +59,10 @@
         </div>
     </div>    
 </div>
+<style>
+body {
+        background-color:lightblue;
+        }
+</style>
+
 @endsection
